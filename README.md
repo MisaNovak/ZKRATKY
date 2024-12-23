@@ -1,0 +1,2 @@
+# ZKRATKY
+moderní zkratky slovnik
